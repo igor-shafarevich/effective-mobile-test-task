@@ -1,2 +1,8 @@
-# effective-mobile-test-task
-E-commerce system analysis test task (REST API, architecture, requirements)
+# Тестовое задание — Системный аналитик
+
+В репозитории представлены решения 3 заданий:
+
+## Состав:
+1. Анализ ТЗ корзины
+2. REST API для партнерских магазинов
+3. Архитектура PUSH-уведомлений
